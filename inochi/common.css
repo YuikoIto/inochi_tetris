@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+  margin: 0;
+  height: 100vh;
+}
+
+.container {
+  margin: 0 auto;
+}
+
+#field {
+  border: solid 1px black;
+}
+/* #sidebar2 {
+  border: solid 1px black;
+} */
+
+.main {
+  display: inline-block;
+}
+.side {
+  display: inline-block;
+}
